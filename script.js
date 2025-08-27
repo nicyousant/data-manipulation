@@ -76,5 +76,5 @@ console.log(drive55GallonsNeeded, drive60GallonsNeeded, drive75GallonsNeeded)
 console.log(`The cost of driving 1500 miles at 55 miles per hour is \$${fuelCost55}.`)
 console.log(`The cost of driving 1500 miles at 60 miles per hour is \$${fuelCost60}.`)
 console.log(`The cost of driving 1500 miles at 75 miles per hour is \$${fuelCost75}.`)
-console.log(`It will be cost effice to drive 55 miles per hour. Fuel cost: \$${fuelCost55} `)
+console.log(`It will be most cost effective to drive 55 miles per hour. Fuel cost: \$${fuelCost55} `)
 
